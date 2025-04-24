@@ -6,7 +6,7 @@
 
 <h3>💪 FlexGram — A Health & Fitness Social Media Web App </h3>
 
-**Check it Out🔗:** [Capstone-Project-FlexGram](https://github.com/Pohaku808/Capstone-Project-FlexGram.git)
+**Check it Out 🔗:** [Capstone-Project-FlexGram](https://github.com/Pohaku808/Capstone-Project-FlexGram.git)
 
-- This repository contains te 
+- This repository contains the design, code, and documentation for FlexGram. A Capstone Project that implements a fully functional health and fitness social media web application using ASP.NET Core 8. The platform allows users to share and explore healthy recipes, workout videos, and wellness tips, while tracking their daily macronutrient intake using an integrated macro counter. 
 
